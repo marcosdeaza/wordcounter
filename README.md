@@ -1,6 +1,6 @@
 # Práctica: Contador de Palabras en El Quijote
 
-Este programa en C++ busca una palabra introducida por el usuario dentro de un archivo de texto (el primer capítulo de *El Quijote*) y cuenta cuántas veces aparece.
+Este programa en C++ busca una palabra introducida por el usuario dentro de un archivo de texto (el primer capítulo de *El Quijote*) y cuenta cuántas veces aparece. Este ejercicio es útil para filtrado de datos en ciberseguridad o data science debido a que podemos reciclar este código para bases de datos en csv por ejemplo.
 
 ## 📝 Enunciado
 
